@@ -45,7 +45,7 @@ const Home = () => {
 					{todos.length > 0 ? (
 						<p> `te faltan {todos.length} tareas`</p>
 					) : (
-						<p>congratulation your ending tasks</p>
+						<p>congratulations, you finished all your tasks</p>
 					)}
 					{/* //operador */}
 					<ul>
